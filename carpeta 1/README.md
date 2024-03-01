@@ -21,7 +21,8 @@ cuadrante 4
 Nos indica el punto exacto en el plano cartesiano
 
 # DISEÑO
-![Diagrama de fujo](diagrama.png "Diagrama de flujo")
+![Diagrama de fujo](driagrama.png "Diagrama de flujo")
+
 
 
 # CONSTRUCCION
